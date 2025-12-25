@@ -1,5 +1,5 @@
 {
-  "name": "探究パートナー・ミライ",
+  "name": "tankyumirai",
   "description": "小学生の「調べ学習」をサポートするAIアプリ。答えを教えるのではなく、ヒントや調べ方を提案して、自ら考える力を育みます。",
   "requestFramePermissions": [
     "microphone"
